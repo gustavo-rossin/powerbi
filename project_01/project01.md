@@ -9,3 +9,6 @@ O dashboard responde as seguintes demandas do exercício:
 - [X] Pergunta 5 -Quais países tiveram maior média de valor de venda? 
 
 - [X] EXTRA: Demonstre em um mapa.E nosso Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.Vamos ao trabalho.
+
+
+Outras informações sobre o projeto no arquivo pdf. O dataset também está disponibilizado.
