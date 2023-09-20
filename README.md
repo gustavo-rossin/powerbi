@@ -8,3 +8,5 @@ Link para o curso: https://www.datascienceacademy.com.br/course/microsoft-power-
 
 A intenção deste repo é manter um tracking dos projetos feitos e para servir de portfólio futuramente.
 
+Em cada pasta de projeto tem um arquivo de markdown que explica o que foi feito no projeto.
+
