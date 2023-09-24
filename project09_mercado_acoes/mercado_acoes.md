@@ -1,4 +1,4 @@
-## Projeto 09
+# Projeto 09
 
 Criei um relatório que traz as informações de ```Ações``` de empresas (Walmart, Oracle, Microsoft, IBM, Tesla) que estão em Nasdaq no período de 1 ano (entre fev/22 e fev/23). Incluí as seguintes análises:
 
@@ -8,3 +8,8 @@ Criei um relatório que traz as informações de ```Ações``` de empresas (Walm
 4. Narrativa Inteligente para auxiliar nas análises obtidas.
 
 Uma ferramenta SUPER interessante para fazer análises comparativas de períodos selecionados. Sem ele, eu teria que criar fórmulas para realizar o cálculo (coisa que fazia antes). Um novo mundo de possibilidades se abriu.
+
+
+## Screenshot
+
+![Projeto 9 - Stock Market Report](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project09_mercado_acoes/stock_market.PNG)
