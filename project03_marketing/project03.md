@@ -1,4 +1,4 @@
-## Projeto 03
+# Projeto 03
 
 O dashboard cria um relatório para o time de Marketing de uma empresa fictícia, baseado em:
 
@@ -8,3 +8,17 @@ O dashboard cria um relatório para o time de Marketing de uma empresa fictícia
 - Visão por pontos de venda: quais são os principais países no marketshare, quais tiveram mais gastos, quais tinham mais clientes
 
 Outras informações sobre o projeto no arquivo pdf. O dataset também está disponibilizado.
+
+## Screenshots
+
+#### Visão Cliente:
+![Projeto 3 - Visão Cliente](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_cliente.PNG)
+
+#### Visão Comportamento:
+![Projeto 3 - Visão Comportamento](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_comportamento.PNG)
+
+#### Visão Campanhas:
+![Projeto 3 - Visão Campanhas](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_campanhas.PNG)
+
+#### Visão Pontos de Venda:
+![Projeto 3 - Visão Pontos de Venda](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_pontos_de_venda.PNG)
