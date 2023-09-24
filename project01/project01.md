@@ -16,4 +16,4 @@ Outras informações sobre o projeto no arquivo pdf. O dataset também está dis
 
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project01/dashboard_analitico.PNG)
+![Projeto - Global Sales](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project01/dashboard_analitico.PNG)
