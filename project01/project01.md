@@ -1,4 +1,4 @@
-## Projeto 01
+# Projeto 01
 
 O dashboard responde as seguintes demandas do exercício:
 
@@ -12,3 +12,8 @@ O dashboard responde as seguintes demandas do exercício:
 
 
 Outras informações sobre o projeto no arquivo pdf. O dataset também está disponibilizado.
+
+
+## Screenshot
+
+![App Screenshot](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project01/dashboard_analitico.PNG)
