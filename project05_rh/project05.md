@@ -1,4 +1,4 @@
-## Projeto 05
+# Projeto 05
 
 O dashboard cria um relatório para o time de ```Recursos Humanos``` de uma empresa fictícia, que busca responder as seguintes questões:
 
@@ -13,3 +13,8 @@ O dashboard cria um relatório para o time de ```Recursos Humanos``` de uma empr
 
 Este dashboard foi muito importante para evoluir na construção de relatórios utilizando as Medidas disponibilizadas pelo PBI. Agora eu entendi a importância de  usar medidas, já que ela nos possibilita a deixar menos pesado os relatórios dentro do PBI.
 Além disso, ela é importante para definir funções e deixar lá guardados, como é comum em linguagens de programação, tipo JavaScript ou Python.
+
+
+## Screenshot
+
+![Projeto 5 - Dashboard RH](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project05_rh/rh_dashboard.PNG)
