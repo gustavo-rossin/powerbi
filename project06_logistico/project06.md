@@ -13,6 +13,6 @@ Desta forma, busco identificar os erros existentes e adicionar o que achar neces
 
 Este dashboard foi muito importante para identificar erros e os solucionar. Interessante também poder trabalhar novamente com logística, já que é uma área que possuo um conhecimento prévio da área. Além disso, continuo usando o Figma para criar as capas.
 
-## Screenshots
+## Screenshot
 
 ![Projeto 6 - Dashboard de Logística](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project06_logistico/logistics_dashboard.PNG)
