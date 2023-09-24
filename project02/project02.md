@@ -1,4 +1,4 @@
-## Projeto 02
+# Projeto 02
 
 O dashboard responde as seguintes demandas do exercício:
 
@@ -15,3 +15,7 @@ produto apresentou maior lucro médio.
 margem de lucro como o lucro dividido pelo valor venda
 
 Outras informações sobre o projeto no arquivo pdf. O dataset também está disponibilizado.
+
+## Screenshot
+
+![Projeto 2 - Vendas, Custo, Margem de Lucro](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project02/profit_margin_dashboard.PNG)
