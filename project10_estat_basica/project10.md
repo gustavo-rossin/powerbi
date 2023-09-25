@@ -30,7 +30,7 @@ RETURN
 
 3. ```Desvio Padrão```: O desvio padrão é a raiz quadrada da variância e também mede a dispersão dos valores em um conjunto de dados. **Ele é expresso na mesma unidade de medida dos valores originais, o que o torna mais fácil de interpretar em comparação com a variância.** Um desvio padrão maior indica maior variabilidade dos valores, enquanto um desvio padrão menor sugere que os valores estão mais próximos da média. 
 
-4. ```Coeficiente de Variância```: Um CV menor indica que os dados são menos dispersos em relação à média, enquanto um CV maior indica que os dados são mais dispersos. CV = (Desvio Padrão / Média) × 100
+4. ```Coeficiente de Variância (CV)```: Um CV menor indica que os dados são menos dispersos em relação à média, enquanto um CV maior indica que os dados são mais dispersos. CV = (Desvio Padrão / Média) × 100
 
 
 
@@ -39,5 +39,6 @@ RETURN
 Parte 1: jeitos de calcular a moda.
 ![Relatório 10 - basic statistics](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project10_estat_basica/print_exercicio1.PNG)
 
-Parte 2: Usando o CV.
+Parte 2: Usando o Coeficente de Variância.
+
 ![Relatório 10 - basic statistics](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project10_estat_basica/print_exercicio2.PNG)
