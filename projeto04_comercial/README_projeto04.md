@@ -10,13 +10,13 @@ O dashboard cria um relatório para o time ```Comercial``` de uma empresa fictí
 ## Screenshots
 
 #### Narrativa Inteligente:
-![Projeto 4 - Narrativa Inteligente](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project04_comercial/sales_narrativa_inteligente.PNG)
+![Projeto 4 - Narrativa Inteligente](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto04_comercial/sales_narrativa_inteligente.PNG)
 
 #### Principais Influenciadores:
-![Projeto 4 - Principais Influenciadores](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project04_comercial/sales_principais_influenciadores.PNG)
+![Projeto 4 - Principais Influenciadores](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto04_comercial/sales_principais_influenciadores.PNG)
 
 #### Faixas de Vendas por Categoria:
-![Projeto 4 - Faixas de Venda por Categoria](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project04_comercial/sales_faixa_vendas_por_categoria.PNG)
+![Projeto 4 - Faixas de Venda por Categoria](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto04_comercial/sales_faixa_vendas_por_categoria.PNG)
 
 #### Performance Vendedores por Região:
-![Projeto 4 - Performance Vendedores por Região](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project04_comercial/sales_performance_vendedores_por_regiao.PNG)
+![Projeto 4 - Performance Vendedores por Região](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto04_comercial/sales_performance_vendedores_por_regiao.PNG)
