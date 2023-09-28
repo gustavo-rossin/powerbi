@@ -37,8 +37,8 @@ RETURN
 ## Screenshots
 
 Parte 1: jeitos de calcular a moda.
-![Relatório 10 - basic statistics](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project10_estat_basica/print_exercicio1.PNG)
+![Relatório 10 - basic statistics](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto10_estat_basica/print_exercicio1.PNG)
 
 Parte 2: Usando o Coeficente de Variância.
 
-![Relatório 10 - basic statistics](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project10_estat_basica/print_exercicio2.PNG)
+![Relatório 10 - basic statistics](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto10_estat_basica/print_exercicio2.PNG)
