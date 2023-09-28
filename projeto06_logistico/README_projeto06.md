@@ -15,4 +15,4 @@ Este dashboard foi muito importante para identificar erros e os solucionar. Inte
 
 ## Screenshot
 
-![Projeto 6 - Dashboard de Logística](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project06_logistico/logistics_dashboard.PNG)
+![Projeto 6 - Dashboard de Logística](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto06_logistico/logistics_dashboard.PNG)
