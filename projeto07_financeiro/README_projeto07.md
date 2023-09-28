@@ -17,4 +17,4 @@ Depois disso, comecei a desenvolver o relatório a partir dos requisitos do exer
 
 ## Screenshot
 
-![Projeto 7 - Dashboard FP&A](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project07_financeiro/fp%26a_dashboard.PNG)
+![Projeto 7 - Dashboard FP&A](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto07_financeiro/fp%26a_dashboard.PNG)
