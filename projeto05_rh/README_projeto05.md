@@ -17,4 +17,4 @@ Além disso, ela é importante para definir funções e deixar lá guardados, co
 
 ## Screenshot
 
-![Projeto 5 - Dashboard RH](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project05_rh/rh_dashboard.PNG)
+![Projeto 5 - Dashboard RH](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto05_rh/rh_dashboard.PNG)
