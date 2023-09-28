@@ -18,4 +18,4 @@ Outras informações sobre o projeto no arquivo pdf. O dataset também está dis
 
 ## Screenshot
 
-![Projeto 2 - Vendas, Custo, Margem de Lucro](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project02/profit_margin_dashboard.PNG)
+![Projeto 2 - Vendas, Custo, Margem de Lucro](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto02/profit_margin_dashboard.PNG)
