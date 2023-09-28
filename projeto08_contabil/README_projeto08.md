@@ -6,4 +6,4 @@ Este dashboard foi muito importante para relembrar algumas informações contáb
 
 ## Screenshot
 
-![Projeto 8 - Balance Sheet Report](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project08_contabil/balance_sheet_dashboard.PNG)
+![Projeto 8 - Balance Sheet Report](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto08_contabil/balance_sheet_dashboard.PNG)
