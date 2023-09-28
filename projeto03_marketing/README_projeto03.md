@@ -12,13 +12,13 @@ Outras informações sobre o projeto no arquivo pdf. O dataset também está dis
 ## Screenshots
 
 #### Visão Cliente:
-![Projeto 3 - Visão Cliente](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_cliente.PNG)
+![Projeto 3 - Visão Cliente](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto03_marketing/dashboard_marketing_visao_cliente.PNG)
 
 #### Visão Comportamento:
-![Projeto 3 - Visão Comportamento](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_comportamento.PNG)
+![Projeto 3 - Visão Comportamento](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto03_marketing/dashboard_marketing_visao_comportamento.PNG)
 
 #### Visão Campanhas:
-![Projeto 3 - Visão Campanhas](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_campanhas.PNG)
+![Projeto 3 - Visão Campanhas](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto03_marketing/dashboard_marketing_visao_campanhas.PNG)
 
 #### Visão Pontos de Venda:
-![Projeto 3 - Visão Pontos de Venda](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project03_marketing/dashboard_marketing_visao_pontos_de_venda.PNG)
+![Projeto 3 - Visão Pontos de Venda](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto03_marketing/dashboard_marketing_visao_pontos_de_venda.PNG)
