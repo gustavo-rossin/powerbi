@@ -12,4 +12,4 @@ Uma ferramenta SUPER interessante para fazer análises comparativas de períodos
 
 ## Screenshot
 
-![Projeto 9 - Stock Market Report](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/project09_mercado_acoes/stock_market.PNG)
+![Projeto 9 - Stock Market Report](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto09_mercado_acoes/stock_market.PNG)
