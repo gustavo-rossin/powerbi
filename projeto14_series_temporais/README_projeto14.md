@@ -5,5 +5,5 @@ Este projeto teve o foco em usar as séries temporais do PowerBI para explicar o
 ## Screenshot
 
 Relatório no PowerBI sobre séries temporais.
-![Relatório 14 - séries temporais]()
+![Relatório 14 - séries temporais](https://raw.githubusercontent.com/gustavo-rossin/powerbi/main/projeto14_series_temporais/relatorio_series_temporais.png)
 
